@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=gurdl0525🏷%20&fontSize=90)<br><br>
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&text=gurdl0525🔮%20&fontSize=90)<br><br>
 
 <div align="center">
   

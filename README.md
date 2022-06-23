@@ -28,6 +28,5 @@
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Power Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Data Grip-B36EE8?style=flat-square&logo=DataGrip&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Jet Brains-F4396B?style=flat-square&logo=JetBrains&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
 <br>

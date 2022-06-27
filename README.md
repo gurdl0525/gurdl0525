@@ -2,10 +2,8 @@
 <br><br>
 
 <div align="center">
-  
 <a herf="https://github.com/gurdl0525/github-readme-stats">
 <img src="https://github-readme-stats.vercel.app/api?username=gurdl0525&bg_color=30,d234eb,34cfeb&title_color=fff&text_color=fff"/></a>
-
 
 </div>
 <h1 align="center"><b>📚 Leaning ✏</b></h1>

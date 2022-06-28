@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&title_color=fff&text=gurdl0525🕹%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&title_color=fff&text=gurdl0525🎐%20&fontSize=90)
 <br><br>
 
 <div align="center">
@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Power Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Data Grip-B36EE8?style=flat-square&logo=DataGrip&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
-<br>
+<img src="https://img.shields.io/badge/Data Grip-B36EE8?style=flat-square&logo=DataGrip&logoColor=white"/></a></p><br>
+<h1 align="center"><b>🙃 Me 🏷</b></h1>
+<p align="center">
+<a href="https://tulip-scarecrow-278.notion.site/Concept-summary-08df9680e0784557ab0b09cb3de2341c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>

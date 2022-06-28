@@ -26,6 +26,6 @@
 <img src="https://img.shields.io/badge/GitKraken-179287?style=flat-square&logo=GitKraken&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Power Shell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Data Grip-B36EE8?style=flat-square&logo=DataGrip&logoColor=white"/></a></p><br>
-<h1 align="center"><b>🙃 Me 🏷</b></h1>
+<h1 align="center"><b>😃 Me 🙃</b></h1>
 <p align="center">
 <a href="https://tulip-scarecrow-278.notion.site/Concept-summary-08df9680e0784557ab0b09cb3de2341c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>

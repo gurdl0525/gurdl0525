@@ -6,7 +6,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=gurdl0525&bg_color=30,d234eb,34cfeb&title_color=fff&text_color=fff"/></a>
 
 </div>
-<h1 align="center"><b>📚 Leaning ✏</b></h1>
+<h1 align="center"><b>📚 Leanning ✏</b></h1>
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=Java&logoColor=white"/></a>

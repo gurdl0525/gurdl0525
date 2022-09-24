@@ -36,4 +36,6 @@
 <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a></p><br>
 <h1 align="center"><b>😃 Me 🙃</b></h1>
 <p align="center">
-<a href="https://tulip-scarecrow-278.notion.site/Concept-summary-08df9680e0784557ab0b09cb3de2341c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a></p>
+<a href="https://tulip-scarecrow-278.notion.site/Concept-summary-08df9680e0784557ab0b09cb3de2341c"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://velog.io/@gurdl7011"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+</p>

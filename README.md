@@ -1,10 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=timeGradient&height=300&section=header&title_color=fff&text=gurdl0525🕹%20&fontSize=90)
 <br><br>
 
-<div align="center">
-<a herf="https://github.com/gurdl0525/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=gurdl0525&bg_color=30,d234eb,34cfeb&title_color=fff&text_color=fff"/></a>
-</div>
 <h1 align="center"><b>📚 Stack ✏</b></h1>
 <p align="center">
 <img src="https://img.shields.io/badge/Java-1E8CBE?style=flat-square&logo=OpenJDK&logoColor=white"/></a>

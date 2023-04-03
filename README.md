@@ -38,3 +38,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=gurdl0525&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurdl0525&layout=compact&langs_count=7"></a>
+
+### 2023 클라우드 컴퓨팅 지방 기능 경기 대회 풀이
+https://tulip-scarecrow-278.notion.site/2023-9027c9e12f57480c8520152fe6f779e5

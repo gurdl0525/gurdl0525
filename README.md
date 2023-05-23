@@ -1,5 +1,4 @@
-
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gurdl0525&theme=react-dark)
+<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gurdl0525&theme=react-dark) -->
 
 # Hi there 🖐️
 

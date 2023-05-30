@@ -33,5 +33,5 @@
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white"/></a>
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=gurdl0525&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true"></a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurdl0525&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurdl0525&layout=compact&langs_count=7"></a>

@@ -1,5 +1,3 @@
-<!-- ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gurdl0525&theme=react-dark) -->
-
 # Hi there 🖐️
 
 배움을 즐기고 책임을 다하며 개발에 열정으로 임하는<br>백엔드 개발자 이강혁입니다.

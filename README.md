@@ -11,6 +11,8 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/></a><br>
 <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS Fargate-FF9900?style=flat-square&logo=awsfargate&logoColor=white"/></a>
@@ -23,7 +25,6 @@
 <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=flat-square&logo=amazoneks&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/AWS DynamoDB-4053D6?style=flat-square&logo=Amazon DynamoDB&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Redhat Enterprise Linux-EE0000?style=flat-square&logo=RedHat&logoColor=white"/></a>
 <br>
 
